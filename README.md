@@ -1,0 +1,2 @@
+# mantek
+deneme
